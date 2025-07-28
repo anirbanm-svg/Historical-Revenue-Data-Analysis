@@ -28,21 +28,18 @@ Practice basic data science skills including:
 
 **Data Sources**
 
-The historical data used in this project was sourced from:\n
-Tesla and GameStop stock and revenue tables hosted on IBM's public cloud object storage for educational purposes.\n
-Note: These pages are static and do not require dynamic JavaScript rendering.\n
+The historical data used in this project was sourced from Tesla and GameStop stock and revenue tables hosted on IBM's public cloud object storage for educational purposes. These pages are static and do not require dynamic JavaScript rendering.
+
 ------------------------------------------------
 **Key Tasks**
 
-Send HTTP GET requests to access HTML pages\n
-Use BeautifulSoup to extract `<table>` data from HTML\n
-Convert tables to pandas DataFrames\n
-Plot revenue trends over time\n
+The project involves sending HTTP GET requests to access HTML pages, using BeautifulSoup to extract `<table>` data from the HTML, converting the tables into pandas DataFrames, and plotting revenue trends over time.
+
 ------------------------------------------------
 **Sample Output**
 
-Line charts showing the quarterly revenue progression of Tesla and GameStop.
-Observations and insights from revenue trends (e.g., growth patterns, decline phases).
+The project includes line charts showing the quarterly revenue progression of Tesla and GameStop, along with observations and insights derived from the revenue trends, such as growth patterns and periods of decline.
+
 ------------------------------------------------
 **License**
 
