@@ -3,7 +3,7 @@
 
 **Historical Revenue Analysis: Tesla & GameStop**
 
-This project is part of the "Python Project for Data Science" course on Coursera, offered by IBM. The goal of this exercise is to extract, parse, and analyze historical revenue data for Tesla (TSLA) and GameStop (GME) using Python and web scraping techniques.
+This project is part of the "Python Project for Data Science" course on Coursera, offered by IBM, and aims to extract, parse, and analyze historical revenue data for Tesla (TSLA) and GameStop (GME) using Python and web scraping techniques.
 ------------------------------------------------------------------
 **Objective**
 
