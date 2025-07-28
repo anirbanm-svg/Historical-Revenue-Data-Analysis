@@ -25,23 +25,19 @@ Practice basic data science skills including:
 * `pandas`
 * `matplotlib`
 ---------------------------------------------------
-**Project Structure**
 
-`tesla_game_revenue_analysis.ipynb` – Main Jupyter Notebook containing all code and visualizations
-`README.md` – Project documentation (this file)
--------------------------------------------------
 **Data Sources**
 
-The historical data used in this project was sourced from:
-Tesla and GameStop stock and revenue tables hosted on IBM's public cloud object storage for educational purposes.
-Note: These pages are static and do not require dynamic JavaScript rendering.
+The historical data used in this project was sourced from:\n
+Tesla and GameStop stock and revenue tables hosted on IBM's public cloud object storage for educational purposes.\n
+Note: These pages are static and do not require dynamic JavaScript rendering.\n
 ------------------------------------------------
 **Key Tasks**
 
-Send HTTP GET requests to access HTML pages
-Use BeautifulSoup to extract `<table>` data from HTML
-Convert tables to pandas DataFrames
-Plot revenue trends over time
+Send HTTP GET requests to access HTML pages\n
+Use BeautifulSoup to extract `<table>` data from HTML\n
+Convert tables to pandas DataFrames\n
+Plot revenue trends over time\n
 ------------------------------------------------
 **Sample Output**
 
